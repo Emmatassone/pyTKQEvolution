@@ -27,7 +27,7 @@ To calculate physics, run the following command
 ```bash
   python3 run.py
 ```
-with the corresponding simulations files on "Metadata" and "Strain_data" folders.
+with the corresponding simulations files on Metadata and Strain_data folders.
 
 For data analysis, then run
  ```bash
