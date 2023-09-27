@@ -14,7 +14,7 @@ pyTKQEvolution is a python package to process, transform and analyze physics fro
 Clone the project
 
 ```bash
-  git clone https://github.com/Emmatassone/pyKQEvolution
+  git clone https://github.com/Emmatassone/pyTKQEvolution
 ```
 
 
