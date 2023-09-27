@@ -1,7 +1,7 @@
 
-# pyKQEvolution
+# pyTKQ-Evolution
 
-pyKQEvolution is a python package to process, transform and analyze physics from Rochester catalog of numerical simulations.
+pyTKQEvolution is a python package to process, transform and analyze physics from Rochester catalog of numerical simulations.
 
 
 ## Authors
